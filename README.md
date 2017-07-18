@@ -7,3 +7,6 @@ just replace
 dotnet new web
 with
 dotnet new webapi
+
+
+add jquery : https://stackoverflow.com/a/41790241/1579102
