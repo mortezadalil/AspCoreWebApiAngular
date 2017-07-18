@@ -1,0 +1,8 @@
+c:\Users\mortezadalil\Documents\Projects\aspCoreAngular\DotNetGigs\bin\Debug\netcoreapp1.1\DotNetGigs.deps.json
+c:\Users\mortezadalil\Documents\Projects\aspCoreAngular\DotNetGigs\bin\Debug\netcoreapp1.1\DotNetGigs.runtimeconfig.json
+c:\Users\mortezadalil\Documents\Projects\aspCoreAngular\DotNetGigs\bin\Debug\netcoreapp1.1\DotNetGigs.runtimeconfig.dev.json
+c:\Users\mortezadalil\Documents\Projects\aspCoreAngular\DotNetGigs\bin\Debug\netcoreapp1.1\DotNetGigs.dll
+c:\Users\mortezadalil\Documents\Projects\aspCoreAngular\DotNetGigs\bin\Debug\netcoreapp1.1\DotNetGigs.pdb
+c:\Users\mortezadalil\Documents\Projects\aspCoreAngular\DotNetGigs\obj\Debug\netcoreapp1.1\DotNetGigs.AssemblyInfo.cs
+c:\Users\mortezadalil\Documents\Projects\aspCoreAngular\DotNetGigs\obj\Debug\netcoreapp1.1\DotNetGigs.dll
+c:\Users\mortezadalil\Documents\Projects\aspCoreAngular\DotNetGigs\obj\Debug\netcoreapp1.1\DotNetGigs.pdb
